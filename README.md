@@ -29,6 +29,7 @@ Build and run the project
 
 ## 📜 License
 This project is open-source and for acedemic puposes.
+![image](https://github.com/user-attachments/assets/90b35144-bb59-4540-9ea4-b8ff2d71916c)
 
-![image](https://github.com/user-attachments/assets/19454ef7-316e-41db-b2b1-9dc20869cec9)
+
 
