@@ -29,6 +29,8 @@ Build and run the project
 
 ## 📜 License
 This project is open-source and for acedemic puposes.
+
+## 📸 Screenshots
 <img src="https://github.com/user-attachments/assets/90b35144-bb59-4540-9ea4-b8ff2d71916c" width="300" height="400">
 
 
